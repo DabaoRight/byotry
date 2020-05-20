@@ -1,0 +1,23 @@
+{
+  "name": "byo/composer",
+  "description":"byomap",
+  "authors":[
+    {
+      "name":"Andre Lim",
+      "email":"limmengze.andre@gmail.com"
+    }
+    "require":{
+      "illuminate/support":"^5.2"
+    },
+    "require-dev":{
+      "illumintate/container":"^5.2"
+    },
+    "autoload":{
+      "files":[],
+      "classmap":[]
+      "psr-4":[]
+    },
+    {
+    "autolaod-dev":[]
+    }
+}
